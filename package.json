@@ -1,7 +1,7 @@
 {
   "name": "practice-my-node-package",
   "version": "1.0.0",
-  "description": "these si my practice for creating a node package",
+  "description": "This is my practice for creating a node package",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
